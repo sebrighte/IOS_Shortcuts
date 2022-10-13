@@ -9,6 +9,6 @@
 
 **[More Info....](https://github.com/sebrighte/IOS_Shortcuts/tree/main/TrackerIP)**.
 
-**[Download PublicIP Shortcut](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/PublicIP.shortcut)**.
+**[Download TrackerIP Shortcut](https://github.com/sebrighte/IOS_Shortcuts/raw/main/TrackerIP/Set%20Tracker%20IP%20DNS.shortcut)**.
 
 
