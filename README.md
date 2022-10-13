@@ -9,6 +9,6 @@ I created this as a module which took an input of a URL (A Name) and produced an
 
 e.g. input: "google.com" Output:"142.250.187.238"
 
-I love supporting the **[EFF](https://eff.org)**.
+I love supporting the **[Download](PublicIP.shortcut)**.
 
 ![alt text](https://github.com/sebrighte/IOS_Shortcuts/blob/main/image.jpg?raw=true)
