@@ -7,7 +7,7 @@ I wanted this to run on my phone to I could message the tracker with the IP addr
 
 I created this so it could be used as a standlaone function that could be resued.
 
-I created this as a module which took an input of a URL (A Name) and produced an IP address as a result
+### Usage: module which took an input of a URL (A Name) and produced an IP address as a result
 
 e.g. input: "google.com" Output: "142.250.187.238"
 
