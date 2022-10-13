@@ -7,4 +7,8 @@
 
 ## Set Tracker IP DNS - Set Tracker IP Address via Message
 
+**[More Info....](https://github.com/sebrighte/IOS_Shortcuts/tree/main/TrackerIP)**.
+
+**[Download PublicIP Shortcut](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/PublicIP.shortcut)**.
+
 
