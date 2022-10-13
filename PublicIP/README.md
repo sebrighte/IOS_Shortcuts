@@ -12,4 +12,4 @@ Module which took an input of a URL (A Name) and produced an IP address as a res
 
 [Download PublicIP Shortcut](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/image.jpg)
 
-![alt text](https://github.com/sebrighte/IOS_Shortcuts/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/image.jpg?raw=true)
