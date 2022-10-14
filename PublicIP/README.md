@@ -13,7 +13,7 @@ URL (A Name) e.g. input: "google.com"
 IPV4IP address e.g. Output: "142.250.187.206"
 
 ### Dependancies: 
-None
+Calling shortcut
 
 ## [Download PublicIP Shortcut](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/PublicIP.shortcut)
 
