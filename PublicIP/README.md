@@ -4,6 +4,8 @@
 ### Usage: 
 Module which took an input of a URL (A Name from another shortcut) and produce an IP address as a result e.g. input: "google.com" Output: "142.250.187.238"
 
+![alt text](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/PublicIP Usage.jpg?raw=true)
+
 ### Input: 
 URL (A Name) e.g. input: "google.com"
 
