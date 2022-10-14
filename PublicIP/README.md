@@ -1,5 +1,5 @@
-# IOS Shortcuts
-## Public IP - Get Public IP Address for URL
+
+# Public IP - Get Public IP Address for URL
 
 ### Usage: 
 Module which takes an input of a URL (A Name, from another shortcut) and produces an IP address as a result e.g. input: "google.com" Output: "142.250.187.238"
