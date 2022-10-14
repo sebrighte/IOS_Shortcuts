@@ -21,7 +21,7 @@ This
   * Send adminIP udate to tracker
   
 ## Usage:
-#### [Download PublicIP Shortcut](https://github.com/sebrighte/IOS_Shortcuts/raw/main/SetTrackerIPDNS.shortcut)
+#### [Download Set Tracker IP DNS Shortcut](https://github.com/sebrighte/IOS_Shortcuts/raw/main/SetTrackerIPDNS.shortcut)
 
 <!--![alt text](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/image.jpg?raw=true)-->
 
