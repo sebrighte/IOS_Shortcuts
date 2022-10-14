@@ -8,7 +8,7 @@ I sechule this to automaically run every day at a specified time.
 
 This
 * Takes the value of the DDNS URL
- * "Enter ddns url here"
+  * "Enter ddns url here"
 * This is passed to the PublicIP shortcut that returns the IPV4 address
 * This is compared against the stored value of the last Public IP address (to see if changed)
 * If changed sends an SMS to the tracker to update the IP address of my Traccar Server
