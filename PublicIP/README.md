@@ -10,7 +10,7 @@ Module which took an input of a URL (A Name from another shortcut) and produce a
 URL (A Name) e.g. input: "google.com"
 
 ### Output: 
-IPV4IP address e.g. Output: "142.250.187.238"
+IPV4IP address e.g. Output: "142.250.187.206"
 
 ### Dependancies: 
 None
