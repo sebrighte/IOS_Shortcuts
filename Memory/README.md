@@ -4,5 +4,8 @@
 ### Usage: 
 Stores data in synchronised data assets (in this case Reminders) across synchronised devices.
 
-### Input: 
+### Download: 
+
+I cant take the credit for this and below is a lnk to the authors site
+
 https://nadnosliw.wordpress.com/2021/10/28/persistent-variables-for-ios-and-ipados-shortcuts/
