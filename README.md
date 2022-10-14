@@ -15,7 +15,7 @@ Provides a IOS capability store and retrieve perisitent variables
 
 ## Set Tracker IP DNS - Set Tracker IP Address via SMS
 
-Provides a IOS capability to automatically update the IP address on my GSM Vehicle Tracker via SMS when my public IP changes (as this is needed to access my Docker hosted GPS tracking server.
+Provides a IOS capability to automatically update the IP address on my GSM Vehicle Tracker via SMS when my public IP changes.
 
 **[More Info...](https://github.com/sebrighte/IOS_Shortcuts/tree/main/TrackerIP)**
 
