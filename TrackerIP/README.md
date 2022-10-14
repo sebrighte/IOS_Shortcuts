@@ -25,4 +25,4 @@ This
 
 #### [Download PublicIP Shortcut](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/PublicIP.shortcut)
 #### [Download Memory Shortcut](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/PublicIP.shortcut)
-#### [Traccar Docker Image][https://github.com/traccar/traccar-docker]) (Requies a SQL databse as well, I used PostGres)
+#### [Traccar Docker Image](https://github.com/traccar/traccar-docker) (Requies a SQL databse as well, I used PostGres)
