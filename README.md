@@ -7,7 +7,7 @@ Provides a (Share Sheet) Shortcut (module / function) that takes a URL (e.g. goo
 
 ## Set Tracker IP DNS - Set Tracker IP Address via SMS
 
-Provides a IOS capability to automatically update the IP address on my GSM Vehicle Tracker via SMS when my public IP changes, as this is needed to access my hosted GPS tracking server.
+Provides a IOS capability to automatically update the IP address on my GSM Vehicle Tracker via SMS when my public IP changes (as this is needed to access my Docker hosted GPS tracking server [Traccar https://github.com/traccar/traccar-docker]).
 
 **[More Info...](https://github.com/sebrighte/IOS_Shortcuts/tree/main/TrackerIP)**
 
