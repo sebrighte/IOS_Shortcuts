@@ -21,7 +21,7 @@ This
   * Send adminIP udate to tracker
   
 ## Usage:
-Module which takes an input of a URL (A Name, from another shortcut) and produces an IP address as a result e.g. input: "google.com" Output: "142.250.187.238"
+...
 
 <!--![alt text](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/image.jpg?raw=true)-->
 
