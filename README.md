@@ -11,7 +11,7 @@ Provides a IOS capability to automatically update the IP address on my GSM Vehic
 
 **[More Info...](https://github.com/sebrighte/IOS_Shortcuts/tree/main/TrackerIP)**
 
-## Memory - Persistent variables in IOS
+## Memory - Persistent variables for iOS and iPadOS Shortcuts
 
 Provides a IOS capability store and retrieve perisitent variables
 
