@@ -25,7 +25,7 @@ Module which takes an input of a URL (A Name, from another shortcut) and produce
 
 ## [Download PublicIP Shortcut](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/PublicIP.shortcut)
 
-![alt text](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/image.jpg?raw=true)
+<!--![alt text](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/image.jpg?raw=true)-->
 
 ## Dependencies
 
