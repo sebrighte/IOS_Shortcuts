@@ -24,6 +24,7 @@ This
 #### [Download Set Tracker IP DNS Shortcut](https://github.com/sebrighte/IOS_Shortcuts/raw/main/SetTrackerIPDNS.shortcut)
 
 ![alt text](https://github.com/sebrighte/IOS_Shortcuts/raw/main/TrackerIP/image2.png?raw=true)
+![alt text](https://github.com/sebrighte/IOS_Shortcuts/raw/main/TrackerIP/image1.png?raw=true)
 
 
 
