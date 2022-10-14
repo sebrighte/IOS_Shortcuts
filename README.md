@@ -5,7 +5,7 @@ Share Sheet Shortcut (module / function) that takes a URL (e.g. google.com) and 
 
 **[More Info...](https://github.com/sebrighte/IOS_Shortcuts/tree/main/PublicIP)**
 
-## Set Tracker IP DNS - Set Tracker IP Address via Message
+## Set Tracker IP DNS - Set Tracker IP Address via SMS
 
 **[More Info...](https://github.com/sebrighte/IOS_Shortcuts/tree/main/TrackerIP)**
 
