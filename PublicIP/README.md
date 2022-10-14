@@ -15,6 +15,6 @@ IPV4IP address e.g. Output: "142.250.187.206"
 ### Dependancies: 
 None
 
-[Download PublicIP Shortcut](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/PublicIP.shortcut)
+Alt-H1 [Download PublicIP Shortcut](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/PublicIP.shortcut)
 
 ![alt text](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/image.jpg?raw=true)
