@@ -2,15 +2,15 @@
 ## Public IP - Get Public IP Address for URL
 
 ### Usage: 
-Module which took an input of a URL (A Name from another shortcut) and produce an IP address as a result e.g. input: "google.com" Output: "142.250.187.238"
+Module which takes an input of a URL (A Name, from another shortcut) and produces an IP address as a result e.g. input: "google.com" Output: "142.250.187.238"
 
 ![alt text](https://github.com/sebrighte/IOS_Shortcuts/raw/main/PublicIP/PublicIPUsage.jpg?raw=true)
 
 ### Input: 
-URL (A Name) e.g. input: "google.com"
+URL (A Name) e.g. input - Text: "google.com"
 
 ### Output: 
-IPV4IP address e.g. Output: "142.250.187.206"
+IPV4IP address e.g. Output - Text: "142.250.187.206"
 
 ### Dependancies: 
 Calling shortcut
