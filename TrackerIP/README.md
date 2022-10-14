@@ -10,8 +10,11 @@ This
 * Takes the value of the DDNS URL
   * "Enter ddns url here"
 * This is passed to the PublicIP shortcut that returns the IPV4 address
+ * Returned as text
 * This is compared against the stored value of the last Public IP address (to see if changed)
+ * Pass disctionary to memory to get last IP stored
 * If changed sends an SMS to the tracker to update the IP address of my Traccar Server
+ * Send adminIP udate to tracker
 
 
 ## Dependencies
