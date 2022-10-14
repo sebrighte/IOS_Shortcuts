@@ -6,7 +6,7 @@ Stores data in data assets (in my case Reminders) across synchronised devices.
 
 ### Download: 
 
-I cant take the credit for this and below is a lnk to the authors site and shortcut download
+I cant possibly take the credit for this great piece of work, below is a lnk to the authors site and shortcut download
 
 ## [Authors Web Site](https://nadnosliw.wordpress.com/2021/10/28/persistent-variables-for-ios-and-ipados-shortcuts)
 
